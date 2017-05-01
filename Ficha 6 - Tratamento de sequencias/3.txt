@@ -1,0 +1,3 @@
+a) Conta o numero de elementos da sequencia apontada por AP1 iguais a Cval
+
+b) REPNZ SCASB

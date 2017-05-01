@@ -1,0 +1,5 @@
+a)
+Coloca em EAx, o indice do primeiro elemento da sequencia igual a AL
+
+b)
+Coloca em EAX, o numero de ocorrencias de eax de ASCII 20h
